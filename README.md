@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vortex1806
-- 👀 I’m interested in Cybersec,Ethical Hacking
-- 🌱 I’m currently learning Engineering
+- 👀 I’m interested in Computer Engineering, Java Development
+- 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me shubhvora03@gmail.com
 
 <!---

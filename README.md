@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vortex1806
-- 👀 I’m interested in Computer Engineering, Java Development
+- 👀 I’m interested in Computer Engineering, Java, python, automation
 - 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me shubhvora03@gmail.com
 
